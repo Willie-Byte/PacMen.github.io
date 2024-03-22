@@ -1,0 +1,1 @@
+PacMan" is a playful browser game where multiple PacMan images bounce around the screen. Open PacMan.html to add PacMan and start the game. Future improvements might include more levels or ghosts. No license information is provided yet.
